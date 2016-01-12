@@ -1,0 +1,109 @@
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\Gomoku_1312279.exe.config
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\Gomoku_1312279.exe
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\Gomoku_1312279.pdb
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.csprojResolveAssemblyReference.cache
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\MainWindow.g.cs
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\App.g.cs
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279_MarkupCompile.cache
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279_MarkupCompile.lref
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\MainWindow.baml
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.g.resources
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.Properties.Resources.resources
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.csproj.GenerateResource.Cache
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.exe
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.pdb
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\Prism.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\Prism.Wpf.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\WebSocket4Net.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\LTWD\Gomoku_1312279\Gomoku_1312279\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\Gomoku_1312279.exe.config
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.exe
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.pdb
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\Gomoku_1312279.exe
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\Gomoku_1312279.pdb
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.csprojResolveAssemblyReference.cache
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\MainWindow.g.cs
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\App.g.cs
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279_MarkupCompile.cache
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279_MarkupCompile.lref
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\MainWindow.baml
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.g.resources
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.Properties.Resources.resources
+C:\Users\KHaNG_\Desktop\Gomoku_1312279\Gomoku_1312279\obj\Debug\Gomoku_1312279.csproj.GenerateResource.Cache
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Gomoku_1312279.exe.config
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.exe
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.pdb
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.csprojResolveAssemblyReference.cache
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\MainWindow.g.cs
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\App.g.cs
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279_MarkupCompile.cache
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279_MarkupCompile.lref
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Gomoku_1312279.exe
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Gomoku_1312279.pdb
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\WebSocket4Net.dll
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\MainWindow.baml
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.g.resources
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.Properties.Resources.resources
+C:\Users\Hoàng\Desktop\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.csproj.GenerateResource.Cache
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Gomoku_1312279.exe.config
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.exe
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.pdb
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Gomoku_1312279.exe
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Gomoku_1312279.pdb
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\EngineIoClientDotNet.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Prism.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Prism.Wpf.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\SocketIoClientDotNet.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\WebSocket4Net.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.csprojResolveAssemblyReference.cache
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\MainWindow.g.cs
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\App.g.cs
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279_MarkupCompile.cache
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279_MarkupCompile.lref
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\MainWindow.baml
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.g.resources
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.Properties.Resources.resources
+C:\Users\KHaNG_\Desktop\Gomoku_1312279 - Copy_2\Gomoku_1312279 - Copy\Gomoku_1312279\obj\Debug\Gomoku_1312279.csproj.GenerateResource.Cache

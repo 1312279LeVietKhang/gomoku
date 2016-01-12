@@ -1,0 +1,31 @@
+﻿<Window x:Class="Gomoku_1312279.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Gomoku_1312279"
+        Title="Gomoku - Five in a row" Height="500" Width="700" >
+    <Grid>
+
+        <Canvas x:Name="canvas" Margin="27,70,310,59" MouseLeftButtonDown="canvas_MouseLeftButtonDown" SizeChanged="canvas_SizeChanged" Background="#FF2AC996"/>
+        <Border BorderBrush="Black" BorderThickness="2" Margin="27,70,310,59" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+        <Button x:Name="Change" Content="Change" Width="70" Height="23" Margin="0,85,36,0" HorizontalAlignment="Right" VerticalAlignment="Top" Click="btn_ChangeName"/>
+        <TextBox x:Name="name" Height="23" TextWrapping="Wrap" Text="KhangLv" Width="125" Margin="0,85,106,0" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="Your Name" Height="27" Margin="0,81,231,0" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <RichTextBox x:Name="chat" Width="243" VerticalScrollBarVisibility="Visible" Margin="0,164,36,104" VerticalAlignment="Stretch" HorizontalAlignment="Right">
+            <RichTextBox.Resources>
+                <Style TargetType="{x:Type Paragraph}">
+                    <Setter Property="Margin" Value="0"/>
+                </Style>
+            </RichTextBox.Resources>
+        </RichTextBox>
+        <Label x:Name="label1" Content="Chat/Message" Background="blue" Width="243" Margin="0,136,36,200" VerticalAlignment="Top" HorizontalAlignment="Right" Height="28"/>
+        <Button x:Name="btn_Send" Content="Send"  Margin="0,0,62,59"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="49" Click="btn_SendMessage"/>
+        <TextBox x:Name="txt_message" Text="Type your message here... "  Margin="0,0,111,59" HorizontalAlignment="Right" VerticalAlignment="Bottom" Height="20" Width="158" GotFocus="Messeage_GotFocus"/>
+        <Button x:Name="btn_new" Content="New" Background="Green"  Margin="52,16,0,0" Click="btn_new_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Width="68" Height="22"/>
+        <ComboBox x:Name="cbBox" HorizontalAlignment="Left" VerticalAlignment="Top" SelectedIndex="0" Margin="150,16,0,0" Height="22">
+            <ComboBoxItem Content="Người với người"/>
+            <ComboBoxItem Content="Người với máy" />
+        </ComboBox>
+        <Button x:Name="button" Content="Online" HorizontalAlignment="Right" Margin="0,19,111,0" VerticalAlignment="Top" Width="75" Background="AntiqueWhite" Click="btn_OnlineClick"/>
+
+    </Grid>
+</Window>
